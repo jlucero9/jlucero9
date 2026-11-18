@@ -35,11 +35,3 @@ Computer Engineering student at **Pontificia Universidad Católica de Chile**, m
 ### 🚀 Projects
 
 - **[Speech](https://github.com/jlucero9/speech)**: a dictation app for macOS. Hold fn, speak, release, and the text is typed wherever you are. Transcription and cleanup run locally with whisper.cpp. Built with Electron, React, TypeScript and Swift.
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlucero9/jlucero9/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlucero9/jlucero9/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/jlucero9/jlucero9/output/github-contribution-grid-snake.svg">
-</picture>
