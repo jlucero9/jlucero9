@@ -2,6 +2,8 @@
 
 Computer Engineering student at **Pontificia Universidad Católica de Chile**, majoring in Software Engineering with a minor in Data Science.
 
+<a href="mailto:joselucerocastro123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
